@@ -1,0 +1,3 @@
+[submodule "plugin-module-volcengine-certcenter-certmgr"]
+	path = internal/certmgr/volcengine-certcenter
+	url = https://github.com/certimate-go/plugin-module-volcengine-certcenter-certmgr.git
